@@ -3,6 +3,7 @@ from odoo import models, fields, api
 
     responsible_id = fields.Many2one('res.users',
         ondelete='set null', string="Responsible", index=True)
+    
 
 class Session(models.Model):
     _name = 'openacademy.session'
