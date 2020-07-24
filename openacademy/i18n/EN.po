@@ -400,4 +400,4 @@ msgstr "Asistente: registro rápido de asistentes a las sesiones"
 #. module: openacademy
 #: model_terms:ir.ui.view,arch_db:openacademy.wizard_form_view
 msgid "or"
-msgstr "o"
+msgstr "ó"
